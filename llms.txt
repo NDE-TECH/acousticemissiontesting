@@ -1,0 +1,33 @@
+# IAIS Acoustic Emission Testing
+
+Official site: https://www.acousticemissiontesting.org
+IAIS India: https://iaisindia.com/
+IAIS UAE: https://iaisuae.com/
+
+This site explains possible AET applications and project-scoping factors. Application examples are general technical information, not claims of completed IAIS AET projects or guaranteed detection.
+
+Key pages:
+- https://www.acousticemissiontesting.org/
+- https://www.acousticemissiontesting.org/about/
+- https://www.acousticemissiontesting.org/services/
+- https://www.acousticemissiontesting.org/services/pressure-equipment/
+- https://www.acousticemissiontesting.org/services/storage-tanks/
+- https://www.acousticemissiontesting.org/services/leak-detection/
+- https://www.acousticemissiontesting.org/services/structural-monitoring/
+- https://www.acousticemissiontesting.org/applications/
+- https://www.acousticemissiontesting.org/technical-approach/
+- https://www.acousticemissiontesting.org/contact/
+- https://www.acousticemissiontesting.org/applications/metallic-pressure-vessels/
+- https://www.acousticemissiontesting.org/applications/pressure-tests-and-commissioning/
+- https://www.acousticemissiontesting.org/applications/aboveground-storage-tanks/
+- https://www.acousticemissiontesting.org/applications/tank-floor-leak-investigation/
+- https://www.acousticemissiontesting.org/applications/piping-pressure-boundaries/
+- https://www.acousticemissiontesting.org/applications/leak-detection/
+- https://www.acousticemissiontesting.org/applications/frp-tanks-and-vessels/
+- https://www.acousticemissiontesting.org/applications/composite-pressure-cylinders/
+- https://www.acousticemissiontesting.org/applications/concrete-structures/
+- https://www.acousticemissiontesting.org/applications/steel-structures-and-welds/
+- https://www.acousticemissiontesting.org/applications/continuous-monitoring/
+- https://www.acousticemissiontesting.org/technology/
+- https://www.acousticemissiontesting.org/solutions/
+- https://www.acousticemissiontesting.org/standards/
