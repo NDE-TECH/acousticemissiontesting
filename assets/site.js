@@ -7,3 +7,8 @@ const setHeader=()=>header&&header.classList.toggle('scrolled',scrollY>10);setHe
 document.querySelectorAll('section,.card,.feature-photo,.gallery figure').forEach(el=>el.classList.add('reveal'));
 if('IntersectionObserver'in window){const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target)}}),{threshold:.08,rootMargin:'0px 0px -30px'});document.querySelectorAll('.reveal').forEach(el=>io.observe(el));}else document.querySelectorAll('.reveal').forEach(el=>el.classList.add('visible'));
 const form=document.querySelector('#enquiry');if(form)form.addEventListener('submit',e=>{e.preventDefault();const d=new FormData(form),to=d.get('office')==='uae'?'i@iaisuae.com':'i@iaisindia.com';const subject='AET enquiry — '+(d.get('asset')||'Industrial asset');const body=['Name: '+(d.get('name')||''),'Company: '+(d.get('company')||''),'Email: '+(d.get('email')||''),'Phone: '+(d.get('phone')||''),'Location: '+(d.get('location')||''),'Asset: '+(d.get('asset')||''),'Inspection requirement: '+(d.get('message')||'')].join('\n');location.href='mailto:'+to+'?subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(body)});
+(function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ywjbbttboe");
